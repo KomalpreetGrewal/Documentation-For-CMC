@@ -1,4 +1,4 @@
-[Previous](Sde.md) | [Index](index.md)
+[Previous](Sde.md) 
 
 ## Instructions for CMC Official
 
