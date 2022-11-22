@@ -1,4 +1,4 @@
-[Previous](README.md)   ||  [Next](Hod.md)
+[Previous](README.md)   |  [Next](Hod.md)
 
 ## Instructions for Employee
 
@@ -80,4 +80,4 @@
   <img src="Images/last.png" />
 </p>
 
-[Previous](README.md) | | [Next](Hod.md)
+[Previous](README.md) |  [Next](Hod.md)
