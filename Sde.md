@@ -1,4 +1,4 @@
-[Previous](Hod.md) | [Index](Sde.md) | [Next](Cmc_Official.md)
+[Previous](Hod.md) || [Next](Cmc_Official.md)
 
 ## Instructions for SDE
 
