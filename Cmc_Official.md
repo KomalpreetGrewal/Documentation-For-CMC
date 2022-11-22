@@ -46,4 +46,4 @@
 
 <br>
 
-[Previous](Sde.md) | [Index](index.md)
+[Previous](Sde.md)
