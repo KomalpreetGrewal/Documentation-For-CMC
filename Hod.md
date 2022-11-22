@@ -1,3 +1,6 @@
+[Previous](README.md) | [Index](README.md) | [Next](Hod.md)
+
+
 ### How HOD take actions on the request
 
 1. Go on [erp.gndec.in](https://erp.gndec.ac.in/)
@@ -93,3 +96,6 @@
 <p align="center">
   <img src="Images/h8.png" />
 </p>
+
+[Previous](README.md) | [Index](README.md) | [Next](Hod.md)
+
