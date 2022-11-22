@@ -1,3 +1,5 @@
+[Previous](Sde.md) | [Index](README.md)
+
 ### How CMC Head will take actions on the request
 
 1. Go on [erp.gndec.in](https://erp.gndec.ac.in/)
@@ -43,3 +45,6 @@
 11. Go on the `Logo` left hand side to go `CMC Correspondance` again.
 
 <br>
+
+[Previous](Sde.md) | [Index](README.md)
+

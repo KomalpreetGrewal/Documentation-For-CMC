@@ -1,3 +1,6 @@
+[Previous](README.md) | [Index](README.md) | [Next](Hod.md)
+
+
 1. Go on [erp.gndec.ac.in](https://erp.gndec.ac.in/) 
 
 <p align="center">
@@ -75,4 +78,6 @@
 <p align="center">
   <img src="Images/last.png" />
 </p>
+
+[Previous](README.md) | [Index](README.md) | [Next](Hod.md)
 
