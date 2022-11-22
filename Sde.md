@@ -1,3 +1,5 @@
+[Previous](Hod.md) | [Index](README.md) | [Next](Cmc_Official.md)
+
 
 1. Go on [erp.gndec.in](https://erp.gndec.ac.in/)
 
@@ -77,4 +79,6 @@
 
 
 12. Now click on the`Logo` on left hand side to go `CMC Correspondance` again.
+
+[Previous](Hod.md) | [Index](README.md) | [Next](Cmc_Official.md)
 
