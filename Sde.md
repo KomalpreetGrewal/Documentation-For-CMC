@@ -1,7 +1,11 @@
+[Previous](Hod.md) | [Index](Sde.md) | [Next](Cmc_Official.md)
+
+## Instructions for SDE
+
 
 1. Go on [erp.gndec.in](https://erp.gndec.ac.in/)
 
-2. Click on login
+2. Click on `Login`
 
 <p align="center">
   <img src="Images/c1.png" />
@@ -78,3 +82,4 @@
 
 12. Now click on the`Logo` on left hand side to go `CMC Correspondance` again.
 
+[Previous](Hod.md) | [Index](Sde.md) | [Next](Cmc_Official.md)
