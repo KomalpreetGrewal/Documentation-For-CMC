@@ -1,4 +1,4 @@
-[Previous](README.md) | [Index](README.md) | [Next](Hod.md)
+[Previous](Employee.md) | [Index](README.md) | [Next](Sde.md)
 
 
 ### How HOD take actions on the request
@@ -97,5 +97,5 @@
   <img src="Images/h8.png" />
 </p>
 
-[Previous](README.md) | [Index](README.md) | [Next](Hod.md)
+[Previous](Employee.md) | [Index](README.md) | [Next](Sde.md)
 
