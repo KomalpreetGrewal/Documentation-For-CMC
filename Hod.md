@@ -1,4 +1,4 @@
-[Previous](Employee.md)  || [Next](Sde.md)
+[Previous](Employee.md)  | [Next](Sde.md)
 
 
 ## Instructions for Hod's
@@ -98,4 +98,4 @@
 </p>
 
 
-[Previous](Employee.md) || [Next](Sde.md)
+[Previous](Employee.md) | [Next](Sde.md)
