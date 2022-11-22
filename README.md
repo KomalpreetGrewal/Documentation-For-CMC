@@ -22,7 +22,7 @@ SDE. All concerned can go through following documentation meant for each role.
 
 
 
-1. [An Employee](Employee)
+1. [An Employee](Employee.md)
 
 1. [Head of the Department](Hod)
 
