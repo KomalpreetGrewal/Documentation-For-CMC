@@ -82,4 +82,4 @@
 
 12. Now click on the`Logo` on left hand side to go `CMC Correspondance` again.
 
-[Previous](Hod.md) | [Index](Sde.md) | [Next](Cmc_Official.md)
+[Previous](Hod.md) || [Next](Cmc_Official.md)
